@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://masterslot.arxman.com/sitemap.xml
